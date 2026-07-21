@@ -1,0 +1,114 @@
+applicant_id,full_name,age,city,university,degree,skills,applied_role,application_date,status,email
+1,Hamza Khan,22.0,Islamabad,Punjab University,BS English,"Canva, Python",Digital Marketing Intern,2024-05-19,Applied,hamza.khan76@gmail.com
+2,Mahnoor Iqbal,21.0,Lahore,COMSATS,BBA,"Photoshop, UI/UX Design",Digital Marketing Intern,2024-04-17,Shortlisted,mahnoor.iqbal58@gmail.com
+3,Fahad Butt,23.0,Not specified,FAST-NUCES,BBA,"Social Media Marketing, Python",UI/UX Design Intern,24/01/2024,Rejected,fahad.butt13@gmail.com
+4,Bilal Hussain,25.0,Lahore,University of Education Lahore,BS English,"UI/UX Design, SEO",Virtual Assistant Intern,"April 02, 2024",Shortlisted,bilal.hussain25@gmail.com
+5,Hassan Malik,21.0,Karachi,LUMS,BBA,"SEO, Data Analysis, Social Media Marketing",Virtual Assistant Intern,11/02/2024,Applied,hassan.malik46@gmail.com
+6,Talha Ahmed,21.0,Karachi,University of Education Lahore,BS Computer Science,Not specified,Digital Marketing Intern,"February 26, 2024",Rejected,talha.ahmed42@gmail.com
+7,Sadia Chaudhry,21.0,Lahore,LUMS,BS Computer Science,"Social Media Marketing, Content Writing, Data Analysis, Graphic Design",Virtual Assistant Intern,2024-04-27,Rejected,sadia.chaudhry34@gmail.com
+8,Nida Raza,23.0,Multan,University of Education Lahore,BS English,"Canva, UI/UX Design",Content Writing Intern,2024-05-06,Shortlisted,nida.raza97@gmail.com
+9,Fahad Sheikh,21.0,Lahore,University of Education Lahore,BS Mass Communication,"MS Office, Data Analysis, UI/UX Design",Graphic Design Intern,"March 05, 2024",Rejected,fahad.sheikh2@gmail.com
+10,Hamza Chaudhry,23.0,Multan,FAST-NUCES,BS Mass Communication,"Excel, SEO, UI/UX Design",UI/UX Design Intern,"February 15, 2024",Shortlisted,hamza.chaudhry14@gmail.com
+11,Zainab Butt,21.0,Not specified,University of Education Lahore,BS Computer Science,"Social Media Marketing, Data Analysis, Excel, Python",UI/UX Design Intern,02/04/2024,Applied,zainab.butt31@gmail.com
+12,Sana Hussain,21.0,Lahore,COMSATS,BS Mass Communication,"Canva, Data Analysis",Data Analytics Intern,2024-05-20,Shortlisted,sana.hussain34@gmail.com
+13,Zeeshan Iqbal,22.0,Islamabad,University of Education Lahore,BBA,"Photoshop, Social Media Marketing, Data Analysis, UI/UX Design",Digital Marketing Intern,2024-01-31,Shortlisted,zeeshan.iqbal29@gmail.com
+14,Nida Iqbal,18.0,Lahore,COMSATS,BS Computer Science,"Photoshop, Excel, Content Writing, Python",Graphic Design Intern,09/01/2024,Selected,nida.iqbal10@gmail.com
+15,Mahnoor Farooq,18.0,Karachi,Punjab University,BBA,"Data Analysis, Graphic Design",Data Analytics Intern,2024-02-18,Selected,mahnoor.farooq13@gmail.com
+16,Mariam Khan,20.0,Lahore,Punjab University,BS Computer Science,"Social Media Marketing, Python, Content Writing",Data Analytics Intern,2024-02-19,Shortlisted,mariam.khan69@gmail.com
+17,Fatima Hussain,19.0,Karachi,LUMS,BS Computer Science,"UI/UX Design, Python, Excel",Data Analytics Intern,2024-05-18,Selected,fatima.hussain12@gmail.com
+18,Umar Iqbal,22.0,Multan,FAST-NUCES,BS Software Engineering,"Graphic Design, Excel",Virtual Assistant Intern,09/04/2024,Selected,umar.iqbal59@gmail.com
+19,Zainab Iqbal,20.0,Islamabad,University of Education Lahore,BS English,"MS Office, UI/UX Design",UI/UX Design Intern,"January 16, 2024",Selected,zainab.iqbal41@gmail.com
+20,Rabia Farooq,19.0,Karachi,COMSATS,BS Computer Science,"Python, Canva, Photoshop, UI/UX Design",UI/UX Design Intern,01/03/2024,Applied,rabia.farooq16@gmail.com
+21,Talha Malik,24.0,Multan,FAST-NUCES,BS Software Engineering,"Content Writing, Social Media Marketing, Photoshop",Graphic Design Intern,08/03/2024,Applied,talha.malik17@gmail.com
+22,Ayesha Hussain,21.0,Lahore,FAST-NUCES,BBA,"Content Writing, UI/UX Design, SEO, Canva",Content Writing Intern,2024-03-30,Selected,ayesha.hussain32@gmail.com
+23,Zeeshan Chaudhry,22.0,Lahore,COMSATS,BS Computer Science,"Photoshop, Python, Canva",Graphic Design Intern,2024-03-08,Rejected,zeeshan.chaudhry14@gmail.com
+25,Iqra Ahmed,20.0,Islamabad,LUMS,BS Mass Communication,"Data Analysis, UI/UX Design, Graphic Design, Excel",Digital Marketing Intern,2024-01-29,Rejected,iqra.ahmed89@gmail.com
+27,Ahmed Farooq,19.0,Multan,FAST-NUCES,BS Software Engineering,"Canva, Photoshop",Virtual Assistant Intern,2024-04-15,Shortlisted,ahmed.farooq23@gmail.com
+28,Fatima Ahmed,22.0,Lahore,FAST-NUCES,BS Computer Science,"Data Analysis, Content Writing",Content Writing Intern,21/02/2024,Applied,fatima.ahmed45@gmail.com
+29,Mahnoor Raza,20.0,Islamabad,COMSATS,BBA,"SEO, Social Media Marketing",Digital Marketing Intern,10/05/2024,Applied,mahnoor.raza87@gmail.com
+31,Sadia Sheikh,20.0,Not specified,LUMS,BBA,"Graphic Design, Excel",Data Analytics Intern,"May 13, 2024",Applied,sadia.sheikh88@gmail.com
+32,Iqra Sheikh,25.0,Islamabad,FAST-NUCES,BS Software Engineering,"SEO, UI/UX Design",Virtual Assistant Intern,"March 20, 2024",Rejected,iqra.sheikh53@gmail.com
+33,Zeeshan Ahmed,21.0,Karachi,FAST-NUCES,BS Computer Science,"Graphic Design, Canva, SEO, Photoshop",Data Analytics Intern,2024-05-20,Rejected,zeeshan.ahmed39@gmail.com
+35,Hassan Iqbal,23.0,Karachi,University of Education Lahore,BS Software Engineering,"Excel, Content Writing",Data Analytics Intern,"May 01, 2024",Shortlisted,hassan.iqbal99@gmail.com
+36,Sadia Hussain,19.0,Multan,LUMS,BS Mass Communication,"Photoshop, Excel",Data Analytics Intern,28/01/2024,Applied,sadia.hussain29@gmail.com
+37,Zeeshan Iqbal,22.0,Lahore,Punjab University,BS Mass Communication,"Data Analysis, UI/UX Design",Virtual Assistant Intern,"May 23, 2024",Selected,zeeshan.iqbal41@gmail.com
+38,Zeeshan Hussain,21.0,Karachi,LUMS,BBA,Not specified,Data Analytics Intern,13/05/2024,Applied,zeeshan.hussain81@gmail.com
+39,Hassan Iqbal,19.0,Islamabad,LUMS,BS Computer Science,"UI/UX Design, Python, Canva",Digital Marketing Intern,2024-02-08,Selected,hassan.iqbal50@gmail.com
+40,Fahad Butt,22.0,Not specified,University of Education Lahore,BS Mass Communication,"Content Writing, Graphic Design",Data Analytics Intern,"April 09, 2024",Selected,fahad.butt90@gmail.com
+41,Ayesha Butt,23.0,Islamabad,Punjab University,BS Software Engineering,"UI/UX Design, Photoshop, Content Writing",Digital Marketing Intern,2024-05-04,Selected,ayesha.butt35@gmail.com
+42,Iqra Raza,22.0,Karachi,COMSATS,BS English,"MS Office, UI/UX Design",Digital Marketing Intern,07/01/2024,Selected,iqra.raza76@gmail.com
+43,Zainab Hussain,21.0,Karachi,Punjab University,BBA,"Graphic Design, Social Media Marketing, Content Writing",Data Analytics Intern,26/04/2024,Rejected,zainab.hussain44@gmail.com
+44,Sana Hussain,21.0,Not specified,University of Education Lahore,BS Computer Science,"Social Media Marketing, Content Writing",Content Writing Intern,"January 18, 2024",Applied,sana.hussain6@gmail.com
+45,Talha Ahmed,19.0,Karachi,FAST-NUCES,BS Computer Science,"Photoshop, Python, Content Writing",UI/UX Design Intern,"April 29, 2024",Applied,talha.ahmed33@gmail.com
+46,Ali Chaudhry,20.0,Lahore,LUMS,BS English,"SEO, MS Office",UI/UX Design Intern,06/04/2024,Shortlisted,ali.chaudhry92@gmail.com
+47,Hamza Chaudhry,21.0,Lahore,University of Education Lahore,BS Mass Communication,"Social Media Marketing, UI/UX Design",Virtual Assistant Intern,"April 19, 2024",Rejected,hamza.chaudhry48@gmail.com
+48,Ayesha Raza,24.0,Multan,COMSATS,BBA,"Social Media Marketing, Data Analysis, Canva",UI/UX Design Intern,2024-04-21,Selected,ayesha.raza94@gmail.com
+49,Mariam Raza,22.0,Islamabad,Punjab University,BS Mass Communication,"Python, SEO",UI/UX Design Intern,2024-04-25,Selected,mariam.raza97@gmail.com
+50,Iqra Khan,18.0,Multan,FAST-NUCES,BS Mass Communication,"Data Analysis, Content Writing",Virtual Assistant Intern,31/03/2024,Rejected,iqra.khan44@gmail.com
+52,Sana Chaudhry,21.0,Karachi,Punjab University,BS Mass Communication,"Content Writing, SEO, Social Media Marketing, Data Analysis",Graphic Design Intern,"May 21, 2024",Rejected,sana.chaudhry45@gmail.com
+53,Mariam Chaudhry,20.0,Islamabad,COMSATS,BS Computer Science,Not specified,Content Writing Intern,2024-03-21,Shortlisted,mariam.chaudhry96@gmail.com
+54,Umar Chaudhry,23.0,Islamabad,University of Education Lahore,BS Mass Communication,"SEO, Content Writing",Content Writing Intern,2024-04-02,Rejected,umar.chaudhry39@gmail.com
+55,Bilal Khan,24.0,Islamabad,FAST-NUCES,BS Software Engineering,"Photoshop, Data Analysis",Data Analytics Intern,2024-01-27,Selected,bilal.khan74@gmail.com
+56,Iqra Ahmed,23.0,Lahore,University of Education Lahore,BS Computer Science,"Python, Photoshop, Graphic Design",Content Writing Intern,2024-05-05,Rejected,iqra.ahmed74@gmail.com
+57,Sana Iqbal,20.0,Lahore,Punjab University,BBA,"MS Office, Photoshop, Content Writing",UI/UX Design Intern,13/05/2024,Selected,sana.iqbal58@gmail.com
+58,Hassan Sheikh,21.0,Lahore,LUMS,BS Mass Communication,"Python, Content Writing, MS Office, SEO",Digital Marketing Intern,2024-01-21,Shortlisted,hassan.sheikh31@gmail.com
+59,Ayesha Raza,22.0,Multan,University of Education Lahore,BS Computer Science,"Excel, Content Writing, SEO",Graphic Design Intern,"March 13, 2024",Shortlisted,ayesha.raza59@gmail.com
+60,Fahad Malik,23.0,Karachi,COMSATS,BBA,Not specified,Data Analytics Intern,12/02/2024,Applied,fahad.malik77@gmail.com
+61,Mariam Chaudhry,21.0,Multan,FAST-NUCES,BS Mass Communication,"UI/UX Design, Data Analysis, MS Office, Python",Graphic Design Intern,11/01/2024,Applied,mariam.chaudhry95@gmail.com
+62,Sana Iqbal,21.0,Lahore,Punjab University,BS Software Engineering,"Excel, Canva, Data Analysis, UI/UX Design",Digital Marketing Intern,2024-03-12,Selected,sana.iqbal75@gmail.com
+63,Ahmed Raza,19.0,Islamabad,Punjab University,BS Mass Communication,"Python, Canva, Social Media Marketing, Graphic Design",Digital Marketing Intern,06/05/2024,Selected,ahmed.raza85@gmail.com
+64,Sana Butt,19.0,Islamabad,Punjab University,BS Software Engineering,"Graphic Design, UI/UX Design",Digital Marketing Intern,"January 01, 2024",Shortlisted,sana.butt70@gmail.com
+65,Rabia Butt,23.0,Multan,Punjab University,BS Software Engineering,"Content Writing, SEO",Digital Marketing Intern,2024-05-20,Applied,rabia.butt37@gmail.com
+66,Talha Iqbal,24.0,Karachi,University of Education Lahore,BS Computer Science,Not specified,Data Analytics Intern,2024-02-27,Rejected,talha.iqbal60@gmail.com
+67,Rabia Chaudhry,21.0,Multan,COMSATS,BS Mass Communication,"Content Writing, Data Analysis, UI/UX Design",Virtual Assistant Intern,07/02/2024,Shortlisted,rabia.chaudhry25@gmail.com
+68,Sana Chaudhry,24.0,Multan,Punjab University,BS Computer Science,"SEO, Excel, Photoshop, UI/UX Design",Data Analytics Intern,"May 30, 2024",Selected,sana.chaudhry85@gmail.com
+69,Ahmed Butt,22.0,Not specified,FAST-NUCES,BS Software Engineering,"Content Writing, Photoshop, Graphic Design",Virtual Assistant Intern,29/02/2024,Selected,ahmed.butt6@gmail.com
+70,Sadia Ahmed,20.0,Not specified,University of Education Lahore,BS Mass Communication,"UI/UX Design, MS Office",Data Analytics Intern,2024-03-25,Applied,sadia.ahmed57@gmail.com
+71,Zainab Raza,22.0,Karachi,COMSATS,BS Software Engineering,Not specified,Graphic Design Intern,21/01/2024,Selected,zainab.raza87@gmail.com
+72,Zeeshan Khan,21.0,Lahore,University of Education Lahore,BS Software Engineering,"Photoshop, SEO, Content Writing, Python",Content Writing Intern,2024-04-21,Rejected,zeeshan.khan98@gmail.com
+73,Ayesha Khan,21.0,Islamabad,Punjab University,BS Mass Communication,"Social Media Marketing, Photoshop, Graphic Design",Virtual Assistant Intern,2024-02-07,Shortlisted,ayesha.khan68@gmail.com
+74,Ali Ahmed,21.0,Lahore,Punjab University,BBA,"MS Office, Content Writing, Data Analysis",Data Analytics Intern,2024-05-29,Rejected,ali.ahmed30@gmail.com
+75,Ayesha Hussain,16.0,Islamabad,Punjab University,BBA,"Canva, Python, Data Analysis, Social Media Marketing",Data Analytics Intern,30/05/2024,Rejected,ayesha.hussain82@gmail.com
+76,Mahnoor Raza,23.0,Multan,FAST-NUCES,BS English,"Graphic Design, MS Office",Virtual Assistant Intern,"April 01, 2024",Selected,mahnoor.raza38@gmail.com
+77,Fatima Khan,22.0,Lahore,COMSATS,BBA,"Data Analysis, SEO, Content Writing, Social Media Marketing",Virtual Assistant Intern,"February 26, 2024",Shortlisted,fatima.khan25@gmail.com
+78,Hamza Khan,21.0,Islamabad,FAST-NUCES,BS Software Engineering,"MS Office, Social Media Marketing",Content Writing Intern,2024-02-03,Shortlisted,hamza.khan38@gmail.com
+79,Zainab Farooq,22.0,Islamabad,University of Education Lahore,BS Software Engineering,"SEO, Canva, Photoshop, Data Analysis",Digital Marketing Intern,"March 16, 2024",Shortlisted,zainab.farooq44@gmail.com
+80,Usman Raza,18.0,Islamabad,FAST-NUCES,BS Mass Communication,"Excel, SEO, UI/UX Design",Data Analytics Intern,01/02/2024,Rejected,usman.raza48@gmail.com
+81,Hamza Iqbal,21.0,Multan,Punjab University,BS English,"UI/UX Design, Social Media Marketing, Content Writing, Python",Content Writing Intern,"April 28, 2024",Applied,hamza.iqbal39@gmail.com
+82,Bilal Chaudhry,22.0,Multan,FAST-NUCES,BS Mass Communication,"Content Writing, UI/UX Design",Data Analytics Intern,04/02/2024,Shortlisted,bilal.chaudhry59@gmail.com
+83,Fahad Malik,21.0,Multan,FAST-NUCES,BS English,"Excel, Social Media Marketing, Content Writing",Virtual Assistant Intern,23/04/2024,Rejected,fahad.malik31@gmail.com
+84,Zeeshan Butt,20.0,Lahore,COMSATS,BS English,"Content Writing, Python, Data Analysis",Digital Marketing Intern,"January 24, 2024",Rejected,zeeshan.butt28@gmail.com
+85,Usman Ahmed,20.0,Karachi,University of Education Lahore,BBA,"Content Writing, MS Office, Photoshop, UI/UX Design",Content Writing Intern,2024-03-25,Shortlisted,usman.ahmed77@gmail.com
+86,Zeeshan Chaudhry,20.0,Karachi,University of Education Lahore,BS Computer Science,"Excel, Canva, Photoshop, Social Media Marketing",Graphic Design Intern,"March 01, 2024",Applied,zeeshan.chaudhry42@gmail.com
+87,Zainab Raza,23.0,Lahore,LUMS,BS Mass Communication,"Data Analysis, Social Media Marketing, UI/UX Design",Digital Marketing Intern,28/01/2024,Rejected,zainab.raza65@gmail.com
+88,Mariam Khan,22.0,Lahore,FAST-NUCES,BS Mass Communication,"Graphic Design, Python, Data Analysis",Content Writing Intern,2024-04-23,Applied,mariam.khan11@gmail.com
+89,Zainab Chaudhry,20.0,Islamabad,COMSATS,BS Computer Science,Not specified,Data Analytics Intern,"January 26, 2024",Selected,zainab.chaudhry15@gmail.com
+91,Sana Malik,22.0,Lahore,COMSATS,BS Mass Communication,"Python, Social Media Marketing, Canva",Graphic Design Intern,2024-05-22,Applied,sana.malik76@gmail.com
+92,Fahad Butt,23.0,Multan,LUMS,BS Computer Science,"MS Office, SEO, Social Media Marketing",Virtual Assistant Intern,"January 27, 2024",Selected,fahad.butt65@gmail.com
+93,Usman Malik,20.0,Islamabad,COMSATS,BS Mass Communication,"Python, SEO, Content Writing",Virtual Assistant Intern,"April 19, 2024",Applied,usman.malik99@gmail.com
+94,Talha Chaudhry,21.0,Lahore,COMSATS,BS Software Engineering,"SEO, Social Media Marketing, MS Office",Digital Marketing Intern,2024-01-02,Shortlisted,talha.chaudhry19@gmail.com
+95,Ayesha Malik,21.0,Karachi,FAST-NUCES,BS Mass Communication,"Data Analysis, Social Media Marketing, Canva",UI/UX Design Intern,04/04/2024,Applied,ayesha.malik93@gmail.com
+96,Bilal Ahmed,19.0,Karachi,Punjab University,BBA,"Python, SEO, Data Analysis, Graphic Design",Content Writing Intern,"May 04, 2024",Applied,bilal.ahmed57@gmail.com
+97,Ahmed Raza,22.0,Lahore,COMSATS,BS English,"Photoshop, MS Office, Data Analysis, SEO",Digital Marketing Intern,2024-01-12,Shortlisted,ahmed.raza51@gmail.com
+98,Hassan Iqbal,22.0,Karachi,LUMS,BS Computer Science,"Social Media Marketing, Python, Excel",Data Analytics Intern,"May 07, 2024",Shortlisted,hassan.iqbal56@gmail.com
+99,Rabia Farooq,22.0,Islamabad,COMSATS,BS Software Engineering,"Excel, Graphic Design, Photoshop",UI/UX Design Intern,2024-04-27,Selected,rabia.farooq41@gmail.com
+100,Fahad Chaudhry,21.0,Lahore,University of Education Lahore,BS Software Engineering,"Social Media Marketing, Canva",Digital Marketing Intern,"April 27, 2024",Shortlisted,fahad.chaudhry47@gmail.com
+101,Fahad Sheikh,19.0,Multan,COMSATS,BS English,"SEO, Social Media Marketing, Content Writing",UI/UX Design Intern,2024-03-26,Shortlisted,fahad.sheikh10@gmail.com
+102,Ahmed Butt,21.0,Karachi,LUMS,BS English,"Canva, SEO",Content Writing Intern,2024-02-20,Selected,ahmed.butt78@gmail.com
+103,Mariam Sheikh,21.0,Multan,FAST-NUCES,BBA,"Social Media Marketing, Canva, Data Analysis, Python",UI/UX Design Intern,30/04/2024,Applied,mariam.sheikh81@gmail.com
+104,Ahmed Farooq,20.0,Lahore,University of Education Lahore,BS Mass Communication,"Data Analysis, Excel, MS Office",UI/UX Design Intern,04/04/2024,Selected,ahmed.farooq10@gmail.com
+105,Mariam Sheikh,21.0,Lahore,Punjab University,BS English,"Photoshop, Content Writing, Social Media Marketing, Data Analysis",Graphic Design Intern,2024-05-08,Applied,mariam.sheikh8@gmail.com
+106,Rabia Ahmed,22.0,Lahore,Punjab University,BS Software Engineering,"Data Analysis, Photoshop, UI/UX Design, Canva",Graphic Design Intern,03/04/2024,Applied,rabia.ahmed37@gmail.com
+108,Sadia Ahmed,22.0,Lahore,University of Education Lahore,BBA,"Graphic Design, Social Media Marketing, Canva, Python",Graphic Design Intern,"April 18, 2024",Shortlisted,sadia.ahmed47@gmail.com
+109,Mahnoor Butt,21.0,Multan,COMSATS,BS Mass Communication,"Canva, Photoshop",Virtual Assistant Intern,20/01/2024,Applied,mahnoor.butt13@gmail.com
+110,Iqra Sheikh,21.0,Karachi,University of Education Lahore,BS Software Engineering,"Canva, Photoshop",Graphic Design Intern,"February 12, 2024",Shortlisted,iqra.sheikh57@gmail.com
+111,Mariam Sheikh,18.0,Islamabad,FAST-NUCES,BS Mass Communication,"Content Writing, UI/UX Design, Photoshop",Data Analytics Intern,20/03/2024,Selected,mariam.sheikh25@gmail.com
+112,Hassan Raza,21.0,Multan,Punjab University,BBA,"MS Office, Canva",UI/UX Design Intern,2024-03-05,Applied,hassan.raza83@gmail.com
+113,Rabia Malik,22.0,Islamabad,University of Education Lahore,BS Computer Science,"SEO, Data Analysis",Data Analytics Intern,2024-05-11,Rejected,rabia.malik56@gmail.com
+114,Ayesha Raza,26.0,Lahore,FAST-NUCES,BS English,"Social Media Marketing, Content Writing, Graphic Design, Python",Virtual Assistant Intern,2024-04-05,Rejected,ayesha.raza4@gmail.com
+115,Zainab Ahmed,21.0,Lahore,FAST-NUCES,BS Computer Science,"Canva, Data Analysis, MS Office",Content Writing Intern,2024-01-02,Selected,zainab.ahmed3@gmail.com
+116,Hamza Chaudhry,22.0,Karachi,Punjab University,BS English,"Excel, Content Writing",Digital Marketing Intern,"April 17, 2024",Selected,hamza.chaudhry80@gmail.com
+117,Talha Farooq,21.0,Lahore,LUMS,BS Mass Communication,"Content Writing, Canva, SEO, Graphic Design",Data Analytics Intern,"January 01, 2024",Shortlisted,talha.farooq46@gmail.com
+118,Sana Farooq,19.0,Islamabad,Punjab University,BBA,"UI/UX Design, Photoshop, MS Office, Excel",Graphic Design Intern,09/04/2024,Applied,sana.farooq6@gmail.com
+119,Ahmed Malik,24.0,Islamabad,FAST-NUCES,BS Computer Science,"Photoshop, Python, Social Media Marketing, Canva",Virtual Assistant Intern,12/01/2024,Selected,ahmed.malik70@gmail.com
+120,Umar Ahmed,23.0,Karachi,FAST-NUCES,BBA,"Data Analysis, Excel, SEO, Content Writing",UI/UX Design Intern,2024-01-12,Selected,umar.ahmed6@gmail.com
